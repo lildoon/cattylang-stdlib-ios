@@ -1,3 +1,4 @@
 
 @interface Test:NSObject
+-(void)something;
 @end
